@@ -12,7 +12,7 @@ def get_version(filename):
 
 
 setup(
-    name='pyharmony',
+    name='py-harmony',
     version=get_version('py-harmony/__init__.py'),
     url='https://github.com/nolte/py-harmony',
     license='Apache License, Version 2.0',
