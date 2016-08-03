@@ -10,4 +10,4 @@ py-harmony
 Inspired by
 ------
 
-* [jterrace/pyharmony](https://github.com/jterrace/pyharmony)
+* [jterrace/pyharmony](https://github.com/jterrace/pyharmony) 
