@@ -12,13 +12,13 @@ def get_version(filename):
 
 
 setup(
-    name='py-harmony',
-    version=get_version('py-harmony/__init__.py'),
+    name='pyharmonyapi',
+    version=get_version('pyharmonyapi/__init__.py'),
     url='https://github.com/nolte/py-harmony',
     license='Apache License, Version 2.0',
     author='malte',
     author_email='',
-    description='py-harmony',
+    description='pyharmonyapi',
     long_description=open('README.rst').read(),
     packages=find_packages(exclude=['tests', 'tests.*']),
     zip_safe=False,

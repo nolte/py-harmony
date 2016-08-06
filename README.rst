@@ -1,5 +1,5 @@
 ****************************
-py-harmony
+pyharmonyapi
 ****************************
 
 .. image:: https://img.shields.io/pypi/v/py-harmony.svg?style=flat
@@ -23,17 +23,6 @@ Logitech Harmony API, to send Device Commands to the Hub.
 
 Installation
 ============
-
-
-
-Configuration
-=============
-
-Before starting Mopidy, you must add configuration for
-py-harmony to your Mopidy configuration file::
-
-    [mongodb-playlist]
-    # TODO: Add example of extension config
 
 
 Project resources
